@@ -16,4 +16,4 @@ echo "Total number of arguments is $#"
 
 #!/bin/sh
 echo "Hello world"
->>>>>>> 7dba35c (Dev 1 modified code)
+
