@@ -12,3 +12,8 @@ echo $name $age
 echo "My first name is $1"
 echo "My surname is $2"
 echo "Total number of arguments is $#"
+
+
+#!/bin/sh
+echo "Hello world"
+>>>>>>> 7dba35c (Dev 1 modified code)
